@@ -1,0 +1,35 @@
+.sideNav{
+    height: 90%; 
+    width: 0;
+    position: fixed; 
+    z-index: 1; 
+    top: 10%;
+    left: 0;
+    bottom: 0;
+    background-color: #15138D; 
+    overflow-x: hidden; 
+    padding-top: 20px; 
+    transition: 0.5s; 
+}
+.sideNav a {
+padding: 20px 8px 20px 20px;
+text-decoration: none;
+font-size: 23px;
+color: white;
+display: block;
+transition: 0.3s;
+top: 0;
+left: 0;
+}
+.sideNav a:hover{
+    background-color: #D80C0C;
+}
+.toggle
+{
+    font-size:40px; 
+    cursor: pointer; 
+    color: white; 
+    font-weight: bolder;
+    position: fixed;
+    left: 1%;
+}

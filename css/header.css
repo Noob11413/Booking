@@ -1,0 +1,16 @@
+.top{
+    background-color: #15138D;
+    height: 10%;
+    width: 100%;
+    position: fixed; 
+    top: 0; 
+    left: 0;
+    z-index: -1;
+    background-attachment: fixed;
+}
+.title{
+    height: 70%;
+    float: right;
+    margin-top: 0.8%;
+    margin-right: 2%;
+}

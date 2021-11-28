@@ -1,0 +1,20 @@
+#main {
+    transition: margin-left .5s;
+    padding: 20px;
+    }
+    .center{
+        position: absolute;
+        top: 15%;
+        z-index: -1;
+    }
+    .container{
+        background-color: transparent;
+        width: 1200px;
+        height: 500px;
+        position: relative;
+        left: 10%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }  
